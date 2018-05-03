@@ -4,12 +4,15 @@ Snippet files supporting writing of [Swagger](https://swagger.io)/OpenAPI spec A
 
 Swagger already provides [swagger-editor](https://swagger.io/swagger-editor/) which is a browser-based editor to edit Swagger spec files. Easiest way to get it going on your local machine is with docker. But we are Emacs addicts, hence this repository (sigh).
 
-`yaml-mode` is convenient in `Emacs` to edit Swagger specification files.
-With addition of `outline-minor-mode` for tree folding and unfolding within a yaml-mode buffer and snippet files from this repo, editing Swagger spec is a breeze. The snippet files take inspiration from swagger-editor's editor-autosuggest-snippets plugin and in few cases extends them.
+`yaml-mode` is convenient in `Emacs` to edit Swagger specification files. With addition of `outline-minor-mode` for tree folding and unfolding within a yaml-mode buffer and snippet files from this repo, editing Swagger spec is a breeze. The snippet files take inspiration from swagger-editor's [editor-autosuggest-snippets](https://github.com/swagger-api/swagger-editor/blob/master/src/plugins/editor-autosuggest-snippets/snippets.js) plugin and in few cases extends them.
 
 Feel free to suggest bug fixes or further additions, if this is useful to you.
 
-# How to configure Emacs so this is useful
+# How to configure Emacs so these snippets are useful
+
+First, your need a recent enough `emacs`, `yasnippet`, `yaml-mode`,
+`outline-mode` and `use-package` installed and configured. See Emacs manual
+and package installation sections for instructions.
 
 My `emacs` `yaml-mode` config is as below. As explained `outline-minor-mode`
 helps with folding/unfolding of subtrees (Swagger files will get large even
@@ -46,7 +49,7 @@ for trivial APIs).
   (add-hook 'yaml-mode-hook #'my-yaml-mode-hook))
 ```
 
-My `yasnippet` configuration is as below, only important point is to point `yas-snippet-dirs` to snippets for swagger. Files from this repo reside under `~/.emacs.d/snippets/yaml-mode/...` for me.
+My `yasnippet` configuration is as below, only important aspect is to point `yas-snippet-dirs` to snippets for swagger. For me, files from this repo reside under `~/.emacs.d/snippets/yaml-mode/...`.
 
 ``` elisp
 (require 'yasnippet)
