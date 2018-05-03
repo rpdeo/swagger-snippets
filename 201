@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-201
+# key: 201
+# --
+201:
+  description: "Created"

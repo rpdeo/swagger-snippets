@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-417
+# key: 417
+# --
+417:
+  description: "Expectation Failed"

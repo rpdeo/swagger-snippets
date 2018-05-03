@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-304
+# key: 304
+# --
+304:
+  description: "Not modified"

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-header
+# key: sw
+# --
+swagger: "2.0"
+${1}

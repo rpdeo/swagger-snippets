@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-409
+# key: 409
+# --
+409:
+  description: "Conflict"

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-426
+# key: 426
+# --
+426:
+  description: "Upgrade Required"

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-422
+# key: 422
+# --
+422:
+  description: "Unprocessable Entity"

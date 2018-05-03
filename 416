@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-416
+# key: 416
+# --
+416:
+  description: "Range not Satisfiable"

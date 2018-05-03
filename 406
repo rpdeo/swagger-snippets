@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-406
+# key: 406
+# --
+406:
+  description: "Not Acceptable"

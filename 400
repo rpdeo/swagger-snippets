@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-400
+# key: 400
+# --
+400:
+  description: "Bad Request"

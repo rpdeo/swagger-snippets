@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-411
+# key: 411
+# --
+411:
+  description: "Length Required"

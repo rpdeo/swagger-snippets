@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-208
+# key: 208
+# --
+208:
+  description: "Already Reported"

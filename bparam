@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: swagger-template-query-body-parameter
+# key: bparam
+# --
+- name: "body"
+  in: "body"
+  required: true
+  description: ${1:description}
+  schema:
+    $ref: "#/definitions/${2:entity}"
+${3}

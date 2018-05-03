@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-507
+# key: 507
+# --
+507:
+  description: "Insufficient Storage"

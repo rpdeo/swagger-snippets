@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-205
+# key: 205
+# --
+205:
+  description: "Reset Content"

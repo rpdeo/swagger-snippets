@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: swagger-template-def
+# key: def
+# --
+${1:ModelName}:
+  type: "object"
+  properties:
+    ${2}

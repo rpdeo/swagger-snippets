@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-506
+# key: 506
+# --
+506:
+  description: "Variant Also Negotiates"

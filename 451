@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-451
+# key: 451
+# --
+451:
+  description: "Unavailable for Legal Reasons"

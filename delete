@@ -1,0 +1,19 @@
+# -*- mode: snippet -*-
+# name: swagger-template-delete
+# key: delete
+# --
+${1:delete}:
+  summary: ${2:summary}
+  description: ${2:description}
+  operationId: ${3:deleteApiCall}
+  consumes:
+    - "application/json"
+  produces:
+    - "application/json"
+  parameters:
+  responses:
+    ${4:200}:
+      description: ${5:OK}
+      schema:
+        $ref: "#/definitions/ApiResponse"
+${6}

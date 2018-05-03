@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-303
+# key: 303
+# --
+303:
+  description: "See Other"

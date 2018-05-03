@@ -1,0 +1,27 @@
+# -*- mode: snippet -*-
+# name: swagger-template-swagger
+# key: swag
+# --
+---
+swagger: "2.0"
+
+info:
+  version: "${1:0.0.1dev1}"
+  title: "${2:api_docs_title}"
+  description: "${3:api_docs_description}"
+  termsOfService: "${4:terms_of_service_url}"
+  contact:
+    name: "${5:full_name}"
+    url: "${6:profile_url}"
+    email: "${7:email}"
+    license:
+      name: "${8:MIT}"
+      url: "${9:http://opensource.org/licenses/MIT}"
+
+scheme:
+  - "https"
+  - "http"
+host: "${10:site_url}"
+basePath: "${11:/api/v1}"
+
+paths: {}

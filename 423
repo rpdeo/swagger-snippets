@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-423
+# key: 423
+# --
+423:
+  description: "Locked"

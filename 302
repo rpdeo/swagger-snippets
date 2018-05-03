@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-302
+# key: 302
+# --
+302:
+  description: "Found"

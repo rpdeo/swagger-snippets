@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-424
+# key: 424
+# --
+424:
+  description: "Failed Dependency"

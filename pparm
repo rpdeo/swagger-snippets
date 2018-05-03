@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: swagger-template-parameter
+# key: pparam
+# --
+- name: ${1:parameter_name}
+  in: "path"
+  required: true
+  description: ${2:description}
+  type: ${3:string}
+${4}

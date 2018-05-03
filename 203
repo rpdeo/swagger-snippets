@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-203
+# key: 203
+# --
+203:
+  description: "Non-Authoritative Information"

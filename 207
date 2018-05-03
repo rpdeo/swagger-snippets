@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-207
+# key: 207
+# --
+207:
+  description: "Multi-Status"

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-200
+# key: 200
+# --
+200:
+  description: "OK"

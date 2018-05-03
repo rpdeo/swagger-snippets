@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-402
+# key: 402
+# --
+402:
+  description: "Payment Required"

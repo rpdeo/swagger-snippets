@@ -1,0 +1,19 @@
+# -*- mode: snippet -*-
+# name: swagger-template-put
+# key: put
+# --
+${1:put}:
+  summary: ${2:summary}
+  description: ${2:description}
+  operationId: ${3:putApiCall}
+  consumes:
+    - "application/json"
+  produces:
+    - "application/json"
+  parameters:
+  responses:
+    ${4:200}:
+      description: ${5:OK}
+      schema:
+        $ref: "#/definitions/ApiResponse"
+${6}

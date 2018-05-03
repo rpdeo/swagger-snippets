@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-429
+# key: 429
+# --
+429:
+  description: "Too Many Requests"

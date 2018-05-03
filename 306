@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-306
+# key: 306
+# --
+306:
+  description: "Switch Proxy"

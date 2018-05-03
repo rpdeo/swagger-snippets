@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-504
+# key: 504
+# --
+504:
+  description: "Gateway Timeout"

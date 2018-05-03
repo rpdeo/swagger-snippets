@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: swagger-template-query-parameter
+# key: qparam
+# --
+- name: ${1:parameter_name}
+  in: "query"
+  required: true
+  description: ${2:description}
+  type: ${3:string}
+${4}

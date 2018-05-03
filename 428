@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-428
+# key: 428
+# --
+428:
+  description: "Precondition Required"

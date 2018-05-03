@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-300
+# key: 300
+# --
+300:
+  description: "Multiple Choices"

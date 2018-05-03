@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-408
+# key: 408
+# --
+408:
+  description: "Request Timeout"

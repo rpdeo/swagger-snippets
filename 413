@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-413
+# key: 413
+# --
+413:
+  description: "Payload Too Large"

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-308
+# key: 308
+# --
+308:
+  description: "Permanent Redirect"

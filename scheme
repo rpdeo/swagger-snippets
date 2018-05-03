@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: swagger-template-scheme
+# key: scheme
+# --
+scheme:
+  - "https"
+  - "http"
+
+host: "${1:site_url}"
+
+basePath: "${2:/api/v1}"

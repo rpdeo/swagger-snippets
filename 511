@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-511
+# key: 511
+# --
+511:
+  description: "Network Authentication Required"

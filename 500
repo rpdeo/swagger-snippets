@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-500
+# key: 500
+# --
+500:
+  description: "Internal Server Error"

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-102
+# key: 102
+# --
+102:
+  description: "Processing"

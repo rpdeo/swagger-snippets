@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-431
+# key: 431
+# --
+431:
+  description: "Request Header Fields Too Large"

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-404
+# key: 404
+# --
+404:
+  description: "Not Found"

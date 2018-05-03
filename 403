@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-403
+# key: 403
+# --
+403:
+  description: "Forbidden"

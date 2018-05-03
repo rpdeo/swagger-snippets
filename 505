@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-505
+# key: 505
+# --
+505:
+  description: "HTTP Version Not Supported"

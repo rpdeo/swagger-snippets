@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: swagger-template-http-305
+# key: 305
+# --
+305:
+  description: "Use Proxy"

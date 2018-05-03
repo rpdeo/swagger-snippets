@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: swagger-template-resp-code
+# key: resp
+# --
+${1:http_code}:
+  description: ${2:description}
+  schema:
+    $ref: "#/definitions/ApiResponse"
+${3}
